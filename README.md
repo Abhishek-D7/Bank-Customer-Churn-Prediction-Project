@@ -1,6 +1,7 @@
 # Bank-Customer-Churn-Prediction-Project
 
 ✨Are you curious about the future of customer behavior in the banking industry?
+
 ✨Excited about the potential of predictive analytics?
 
 In my latest project, I explored the dynamic domain of Bank customer churn prediction . Core Python formed the foundation for the entire implementation, while Numpy facilitated efficient numerical operations. Pandas, a powerful data manipulation library, played a crucial role in handling and processing the dataset. The visual representation of data and model performance was accomplished using Matplotlib and Seaborn.
